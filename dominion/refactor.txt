@@ -1,0 +1,9 @@
+council_room-- I through the code into a function called Council_room which takes a pointer to the current game state, the current player, and the hand position.
+
+smithy-- I through the code into a function called Smithy which takes a pointer to the current game state, the current player, and the hand position.
+
+village-- I through the code into a function called Village which takes a pointer to the current game state, the current player, and the hand position
+
+great_hall-- I through the code into a function called Great_hall which takes a pointer to the current game state, the current player, and the hand position
+
+embargo-- I through the code into a function called Embargo which takes a pointer to the current game state, the current player, the hand position, and choice1
