@@ -1,0 +1,12 @@
+Bug Report
+
+In dominion.c::scoreFor()
+-bug 1: accures when function calculates hand value of player
+
+In dominion.c::getWinners()
+-bug 2: accurese when function compares scores
+
+In dominion.c::cardEffect()
+-bug 3: accures when card is steward
+-bug 4: accures when card is cutpurse
+-bug 5: accures when card is outpost

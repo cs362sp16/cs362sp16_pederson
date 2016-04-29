@@ -1,0 +1,8 @@
+dominion_tester got 100% of code coverage according to gecov. This means that all of my lines run as expected within this program.
+
+gecov results:
+
+File 'dominion_tester.c'
+Lines executed:100.00% of 36
+Creating 'dominion_tester.c.gcov'
+
