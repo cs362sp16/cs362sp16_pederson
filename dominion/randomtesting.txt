@@ -1,0 +1,27 @@
+A single unit test only checks one branch of code, but a good random tester checks all reachable branches of the code. For my random testers I created an implimentation card within the tester. I then ran an identical game states through both card implimentation and compared the results; this is the same method that I used for most of my unittests thus the effort to check for correctness is identical between the random and unit tests.
+
+My random testers covered 100% of the three cards (steward, great hall, and adventurer) by running just 10k loops with a seed of 100 for each tester. I tested the steward card with both random tester and unit tester. I had to run 3 different test within my unit tester to reach 100% coverage, but this just means that it tested one corner case for each branch of the card. Since my unit just tested once per branch, my random tester has a higher fault detection.
+
+
+statement coverage:
+
+Function 'cardEffect'
+Lines executed:15.35% of 215
+
+Function 'Great_hall'
+Lines executed:100.00% of 5
+
+
+
+branch coverage:
+
+Function 'cardEffect'
+Lines executed:15.35% of 215
+Branches executed:20.63% of 189
+Taken at least once:11.11% of 189
+Calls executed:15.25% of 59
+
+Function 'Great_hall'
+Lines executed:100.00% of 5
+No branches
+Calls executed:100.00% of 2

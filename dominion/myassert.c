@@ -3,15 +3,15 @@
 #include<stdbool.h>
 #include<stdio.h>
 
-int _FAILS = 0;
-int myassert(bool expression, char *string){
+int _FAILS_ = 0;
+void myassert(bool expression, char *string){
 	if(expression){
-		_FAILS++;
-		printf("Failure number %d: %s", _FAILS, string);
+		_FAILS_++;
+		printf("Failure number %d: %s", _FAILS_, string);
 	}
 }
 
 int numFails(){
-   return _FAILS;
+   return _FAILS_;
 }
 #endif
