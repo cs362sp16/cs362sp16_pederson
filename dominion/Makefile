@@ -1,6 +1,12 @@
-CFLAGS = -fpic -coverage -lm -std=c99 -w
-SEED = 100
+CFLAGS = -fpic -coverage -lm -std=c99 -Wall
+SEED = 42
 LOOPS = 10000
+
+testdominion: testdominion.c interface.o rngs.o dominion.o .PHONY
+	gcc -o testdominion testdominion.c -g dominion.o rngs.o interface.o myassert.c $(CFLAGS)
+	testdominion $(SEED) > testdominion.out
+	echo "" >> testdominion.out
+	gcov dominion.c >> testdominion.out
 
 .PHONY:
 
@@ -58,7 +64,7 @@ randomtestcard2: myassert.o dominion.o rngs.o randomtestcard2.c .PHONY
 	gcov dominion.c >> randomtestcard2.out
 
 
-all: playdom player unittest_results 
+all: playdom player 
 
 clean:
-	rm -f *.o playdom.exe playdom test.exe test player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 player.exe testInit testInit.exe randomtestadventurer randomtestcard1 randomtestcard2 *.gcov *.gcda *.gcno *.so *.a *.dSYM
+	rm -f *.o testdominion playdom.exe playdom test.exe test player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 player.exe testInit testInit.exe randomtestadventurer randomtestcard1 randomtestcard2 *.gcov *.gcda *.gcno *.so *.a *.dSYM

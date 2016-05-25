@@ -1,0 +1,51 @@
+Supply count: 20 12 12 12 39 40 30 -1 10 10
+Starting tests...
+Failure number 1: Failure in buy phase with player 2
+Failure number 2: Failure in buy phase with player 1
+Failure number 3: Failure in buy phase with player 1
+Failure number 4: Failure in buy phase with player 1
+Failure number 5: Failure in buy phase with player 1
+Failure number 6: Failure in buy phase with player 1
+Failure number 7: Failure in buy phase with player 1
+Failure number 8: Failure in buy phase with player 2
+Failure number 9: Failure in buy phase with player 1
+Failure number 10: Failure in buy phase with player 1
+Failure number 11: Failure in buy phase with player 2
+Failure number 12: Failure in buy phase with player 2
+Failure number 13: Failure in buy phase with player 2
+Failure number 14: Failure in buy phase with player 2
+Failure number 15: Failure in action phase with player 0
+Failure number 16: Failure in action phase with player 2
+Failure number 17: Failure in buy phase with player 1
+Failure number 18: Failure in buy phase with player 1
+Failure number 19: Failure in action phase with player 1
+Failure number 20: Failure in buy phase with player 2
+Failure number 21: Failure in buy phase with player 1
+Failure number 22: Failure in buy phase with player 1
+Failure number 23: Failure in buy phase with player 1
+Failure number 24: Failure in buy phase with player 1
+Failure number 25: Failure in buy phase with player 1
+Failure number 26: Failure in buy phase with player 1
+Failure number 27: Failure in buy phase with player 1
+Failure number 28: Failure in buy phase with player 2
+Failure number 29: Failure in buy phase with player 2
+Failure number 30: Failure in buy phase with player 2
+Failure number 31: Failure in buy phase with player 0
+Failure number 32: Failure in buy phase with player 0
+Failure number 33: Failure in buy phase with player 0
+Failure number 34: Failure in buy phase with player 1
+Failure number 35: Failure in buy phase with player 1
+Failure number 36: Failure in action phase with player 0
+Failure number 37: Failure in buy phase with player 1
+Failure number 38: Failure in buy phase with player 1
+Failure number 39: Failure in buy phase with player 1
+Failure number 40: Failure in buy phase with player 0
+Failure number 41: Failure in buy phase with player 0
+Failure number 42: Failure in buy phase with player 2
+Supply count: 0 0 10 12 26 24 30 -1 9 5
+
+Tests attempted:
+	203	played cards
+	204	buys
+	228	players turns
+Test FAILED 42 times

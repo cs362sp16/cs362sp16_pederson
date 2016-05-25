@@ -1,0 +1,75 @@
+#!/bin/python
+import sys
+import subprocess
+import os
+import difflib
+
+seed = [1, 2, 3, 4, 5, 7, 8, 9]
+secs = 15
+
+if(len(sys.argv) < 2):
+   print("USAGE: %s [./dominion1Dir] [./dominion2Dir]" % sys.argv[0])
+   sys.exit(1)
+
+dir1 = sys.argv[1]
+dir2 = sys.argv[2]
+
+if not (os.path.isfile("testdominion.c")):
+   print "Error: cannot find \"testdominion.c\""
+   sys.exit(1)
+
+if not (os.path.isdir(dir1)  and os.path.isdir(dir2)):
+   print "Error: comparing directories must be in " + os.getcwd()
+   sys.exit(1)
+
+os.chdir(dir1)
+if not (os.path.isfile("dominion.c")):
+   print "Error: cannot find \"dominion.c\" in %s" % dir1
+   sys.exit(1)
+subprocess.call('cp ../*.h ./', shell=True)
+
+os.chdir("../" + dir2)
+if not (os.path.isfile("dominion.c")):
+   print "Error: cannot find \"dominion.c\" in %s" % dir2
+   sys.exit(1)
+subprocess.call('cp ../*.h ./', shell=True)
+
+
+
+#compiling
+print "Compiling files..."
+os.chdir("../")
+subprocess.call('gcc -o testdominion1 -coverage -std=c99 -g -lm -fpic -w testdominion.c ' + dir1 + '/dominion.c rngs.c interface.c myassert.c', shell=True)
+if not os.path.isfile("testdominion1"):
+   print "Failed to compile in " + dir1
+   sys.exit(1)
+subprocess.call('mv testdominion1 ' + dir1 + '/testdominion', shell=True)
+#subprocess.call('mv dominion.gcno ' + dir1, shell=True)
+
+subprocess.call('gcc -o testdominion2 -coverage -std=c99 -g -lm -fpic -w testdominion.c ' + dir2 + '/dominion.c rngs.c interface.c myassert.c', shell=True)
+if not os.path.isfile("testdominion2"):
+   print "Failed to compile in " + dir2
+   sys.exit(1)
+subprocess.call('mv testdominion2 ' + dir2 + '/testdominion', shell=True)
+#subprocess.call('mv dominion.gcno ' + dir1, shell=True)
+
+#running
+print "Running test..."
+subprocess.call('echo "" > ' + dir1 + '/testdominion.out', shell=True)
+for i in xrange(0, len(seed)):
+   subprocess.call(dir1 + '/testdominion ' + str(seed[i]) + ' >> ' + dir1 + '/testdominion.out', shell=True)
+
+subprocess.call('echo "" > ' + dir2 + '/testdominion.out', shell=True)
+for i in xrange(0, len(seed)):
+   subprocess.call(dir2 + '/testdominion ' + str(seed[i]) + ' >> ' + dir2 + '/testdominion.out', shell=True)
+
+#comparing
+print "Comparing results..."
+testresults = subprocess.call('diff ' + dir1 + '/testdominion.out ' + dir2 + '/testdominion.out > /dev/null', shell = True)
+if testresults:
+   print "test differs with:"
+   subprocess.call('diff ' + dir1 + '/testdominion.out ' + dir2 + '/testdominion.out', shell = True)
+   print "\n -----------------------------------\nTEST FAILED"
+else:
+   print "TEST PASSED"
+
