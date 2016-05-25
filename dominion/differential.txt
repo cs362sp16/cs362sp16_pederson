@@ -1,0 +1,8 @@
+I tested my dominion verses (onid username) andrewsm dominion. This test resulted in a lot of errors, but it is extremely hard which dominion code the bugs are in. This differential testing is really good if you are testing code againsed an almost perfect version but if both are full of bugs it makes debuging really hard. 
+The code coverage for both implimentations are the same. I found it really hard to get atleast 60% code coverage with this implimentation of dominion, but I finally made it.
+
+
+File 'andrewsmdominion/dominion.c'
+Lines executed:60.14% of 562
+Creating 'dominion.c.gcov'
+
