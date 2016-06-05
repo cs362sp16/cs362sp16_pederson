@@ -1,0 +1,4 @@
+Priority = 4/5
+Severity = 2/5
+
+The correct number of copper was not removed from other players when cutpurse was called within cardEffect().

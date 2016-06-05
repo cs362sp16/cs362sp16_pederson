@@ -1,0 +1,8 @@
+How to use:
+	make a directory with all dominion files within
+	cp *.? dominionDir/
+	cp Makefile dominionDir/
+	cd dominionDir
+	make
+
+All testing results are stored within "results.out"

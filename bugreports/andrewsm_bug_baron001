@@ -1,0 +1,4 @@
+Priority = 4/5
+Severity = 2/5
+
+Player number of buy does not increase when baron is called through cardEffect()

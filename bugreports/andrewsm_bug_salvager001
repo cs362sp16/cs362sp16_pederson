@@ -1,0 +1,4 @@
+Priority = 4/5
+Severity = 2/5
+
+Number of buys for player did not increase when salvanger is called through cardEffect()

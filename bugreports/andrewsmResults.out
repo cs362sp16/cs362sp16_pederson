@@ -1,0 +1,521 @@
+randomTestDominion
+Starting test...
+Failure number 1: Action Phase: Played Card is still in players hand
+Failure number 2: Action Phase: Played Card is still in players hand
+Failure number 3: Action Phase: Played Card is still in players hand
+Failure number 4: Action Phase: Played Card is still in players hand
+Failure number 5: Action Phase: Played Card is still in players hand
+Failure number 6: Action Phase: Played Card is still in players hand
+Test failed 6 times
+
+randomTestCard
+Starting Tests...
+Failure number 1: Embargo: did not recieve coins
+Failure number 2: Baron: did not increase number of buys
+Failure number 3: Salvager: did not increase number of buys
+Failure number 4: Embargo: did not recieve coins
+Failure number 5: Steward: Error within the choice
+Failure number 6: Gardens: magic... random card appears
+Failure number 7: Baron: did not increase number of buys
+Failure number 8: Steward: Error within the choice
+Failure number 9: Baron: did not increase number of buys
+Failure number 10: Baron: did not increase number of buys
+Failure number 11: Embargo: did not recieve coins
+Failure number 12: Baron: did not increase number of buys
+Failure number 13: Gardens: magic... random card appears
+Failure number 14: Baron: did not increase number of buys
+Failure number 15: Smithy: did not gain 3 cards
+Failure number 16: Salvager: did not increase number of buys
+Failure number 17: Gardens: magic... random card appears
+Failure number 18: Baron: did not increase number of buys
+Failure number 19: Embargo: did not recieve coins
+Failure number 20: Great hall: did not gain action
+Failure number 21: Gardens: magic... random card appears
+Failure number 22: Gardens: magic... random card appears
+Failure number 23: Salvager: did not increase number of buys
+Failure number 24: Baron: did not increase number of buys
+Failure number 25: Gardens: magic... random card appears
+Failure number 26: Salvager: did not increase number of buys
+Failure number 27: Great hall: did not gain action
+Failure number 28: Salvager: did not increase number of buys
+Failure number 29: Gardens: magic... random card appears
+Failure number 30: Salvager: did not increase number of buys
+Failure number 31: Embargo: did not recieve coins
+Failure number 32: Cutpurse: did not remove copper from other players
+Failure number 33: Smithy: did not gain 3 cards
+Failure number 34: Steward: Error within the choice
+Failure number 35: Gardens: magic... random card appears
+Failure number 36: Cutpurse: did not remove copper from other players
+Failure number 37: Salvager: did not increase number of buys
+Failure number 38: Salvager: did not increase number of buys
+Failure number 39: Salvager: did not increase number of buys
+Failure number 40: Embargo: did not recieve coins
+Failure number 41: Treasure map: did not gain right amount of coins
+Failure number 42: Steward: Error within the choice
+Failure number 43: Steward: Error within the choice
+Failure number 44: Baron: did not increase number of buys
+Failure number 45: Salvager: did not increase number of buys
+Failure number 46: Embargo: did not recieve coins
+Failure number 47: Gardens: magic... random card appears
+Failure number 48: Great hall: did not gain action
+Failure number 49: Great hall: did not gain action
+Failure number 50: Steward: Error within the choice
+Failure number 51: Great hall: did not gain action
+Failure number 52: Salvager: did not increase number of buys
+Failure number 53: Embargo: did not recieve coins
+Failure number 54: Gardens: magic... random card appears
+Failure number 55: Steward: Error within the choice
+Failure number 56: Steward: Error within the choice
+Failure number 57: Gardens: magic... random card appears
+Failure number 58: Baron: did not increase number of buys
+Failure number 59: Treasure map: did not gain right amount of coins
+Failure number 60: Steward: Error within the choice
+Failure number 61: Gardens: magic... random card appears
+Failure number 62: Embargo: did not recieve coins
+Failure number 63: Steward: Error within the choice
+Failure number 64: Cutpurse: did not remove copper from other players
+Failure number 65: Baron: did not increase number of buys
+Failure number 66: Salvager: did not increase number of buys
+Failure number 67: Steward: Error within the choice
+Failure number 68: Embargo: did not recieve coins
+Failure number 69: Baron: did not increase number of buys
+Failure number 70: Great hall: did not gain action
+Failure number 71: Steward: Error within the choice
+Failure number 72: Great hall: did not gain action
+Failure number 73: Steward: Error within the choice
+Failure number 74: Embargo: did not recieve coins
+Failure number 75: Baron: did not increase number of buys
+Failure number 76: Baron: did not increase number of buys
+Failure number 77: Treasure map: did not gain right amount of coins
+Failure number 78: Baron: did not increase number of buys
+Failure number 79: Cutpurse: did not remove copper from other players
+Failure number 80: Cutpurse: did not remove copper from other players
+Failure number 81: Steward: Error within the choice
+Failure number 82: Gardens: magic... random card appears
+Failure number 83: Steward: Error within the choice
+Failure number 84: Great hall: did not gain action
+Failure number 85: Gardens: magic... random card appears
+Failure number 86: Gardens: magic... random card appears
+Failure number 87: Baron: did not increase number of buys
+Failure number 88: Embargo: did not recieve coins
+Failure number 89: Great hall: did not gain action
+Failure number 90: Great hall: did not gain action
+Failure number 91: Salvager: did not increase number of buys
+Failure number 92: Great hall: did not gain action
+Failure number 93: Baron: did not increase number of buys
+Failure number 94: Salvager: did not increase number of buys
+Failure number 95: Gardens: magic... random card appears
+Failure number 96: Cutpurse: did not remove copper from other players
+Failure number 97: Great hall: did not gain action
+Failure number 98: Great hall: did not gain action
+Failure number 99: Cutpurse: did not remove copper from other players
+Failure number 100: Salvager: did not increase number of buys
+Failure number 101: Great hall: did not gain action
+Failure number 102: Embargo: did not recieve coins
+Failure number 103: Great hall: did not gain action
+Failure number 104: Salvager: did not increase number of buys
+Failure number 105: Treasure map: did not gain right amount of coins
+Failure number 106: Steward: Error within the choice
+Failure number 107: Treasure map: did not gain right amount of coins
+Failure number 108: Cutpurse: did not remove copper from other players
+Failure number 109: Cutpurse: did not remove copper from other players
+Failure number 110: Smithy: did not gain 3 cards
+Failure number 111: Smithy: did not gain 3 cards
+Failure number 112: Great hall: did not gain action
+Failure number 113: Steward: Error within the choice
+Failure number 114: Gardens: magic... random card appears
+Failure number 115: Cutpurse: did not remove copper from other players
+Failure number 116: Smithy: did not gain 3 cards
+Failure number 117: Cutpurse: did not remove copper from other players
+Failure number 118: Treasure map: did not gain right amount of coins
+Failure number 119: Salvager: did not increase number of buys
+Failure number 120: Cutpurse: did not remove copper from other players
+Failure number 121: Salvager: did not increase number of buys
+Failure number 122: Baron: did not increase number of buys
+Failure number 123: Cutpurse: did not remove copper from other players
+Failure number 124: Embargo: did not recieve coins
+Failure number 125: Gardens: magic... random card appears
+Failure number 126: Cutpurse: did not remove copper from other players
+Failure number 127: Treasure map: did not gain right amount of coins
+Failure number 128: Baron: did not increase number of buys
+Failure number 129: Treasure map: did not gain right amount of coins
+Failure number 130: Salvager: did not increase number of buys
+Failure number 131: Great hall: did not gain action
+Failure number 132: Salvager: did not increase number of buys
+Failure number 133: Steward: Error within the choice
+Failure number 134: Great hall: did not gain action
+Failure number 135: Salvager: did not increase number of buys
+Failure number 136: Smithy: did not gain 3 cards
+Failure number 137: Steward: Error within the choice
+Failure number 138: Steward: Error within the choice
+Failure number 139: Smithy: did not gain 3 cards
+Failure number 140: Embargo: did not recieve coins
+Failure number 141: Gardens: magic... random card appears
+Failure number 142: Smithy: did not gain 3 cards
+Failure number 143: Treasure map: did not gain right amount of coins
+Failure number 144: Great hall: did not gain action
+Failure number 145: Embargo: did not recieve coins
+Failure number 146: Great hall: did not gain action
+Failure number 147: Cutpurse: did not remove copper from other players
+Failure number 148: Salvager: did not increase number of buys
+Failure number 149: Salvager: did not increase number of buys
+Failure number 150: Steward: Error within the choice
+Failure number 151: Great hall: did not gain action
+Failure number 152: Gardens: magic... random card appears
+Failure number 153: Steward: Error within the choice
+Failure number 154: Salvager: did not increase number of buys
+Failure number 155: Great hall: did not gain action
+Failure number 156: Baron: did not increase number of buys
+Failure number 157: Baron: did not increase number of buys
+Failure number 158: Gardens: magic... random card appears
+Failure number 159: Baron: did not increase number of buys
+Failure number 160: Steward: Error within the choice
+Failure number 161: Embargo: did not recieve coins
+Failure number 162: Smithy: did not gain 3 cards
+Failure number 163: Salvager: did not increase number of buys
+Failure number 164: Treasure map: did not gain right amount of coins
+Failure number 165: Baron: did not increase number of buys
+Failure number 166: Salvager: did not increase number of buys
+Failure number 167: Cutpurse: did not remove copper from other players
+Failure number 168: Embargo: did not recieve coins
+Failure number 169: Salvager: did not increase number of buys
+Failure number 170: Smithy: did not gain 3 cards
+Failure number 171: Salvager: did not increase number of buys
+Failure number 172: Salvager: did not increase number of buys
+Failure number 173: Salvager: did not increase number of buys
+Failure number 174: Baron: did not increase number of buys
+Failure number 175: Treasure map: did not gain right amount of coins
+Failure number 176: Salvager: did not increase number of buys
+Failure number 177: Baron: did not increase number of buys
+Failure number 178: Smithy: did not gain 3 cards
+Failure number 179: Cutpurse: did not remove copper from other players
+Failure number 180: Great hall: did not gain action
+Failure number 181: Baron: did not increase number of buys
+Failure number 182: Embargo: did not recieve coins
+Failure number 183: Baron: did not increase number of buys
+Failure number 184: Treasure map: did not gain right amount of coins
+Failure number 185: Treasure map: did not gain right amount of coins
+Failure number 186: Gardens: magic... random card appears
+Failure number 187: Baron: did not increase number of buys
+Failure number 188: Salvager: did not increase number of buys
+Failure number 189: Steward: Error within the choice
+Failure number 190: Salvager: did not increase number of buys
+Failure number 191: Great hall: did not gain action
+Failure number 192: Treasure map: did not gain right amount of coins
+Failure number 193: Steward: Error within the choice
+Failure number 194: Baron: did not increase number of buys
+Failure number 195: Baron: did not increase number of buys
+Failure number 196: Great hall: did not gain action
+Failure number 197: Salvager: did not increase number of buys
+Failure number 198: Great hall: did not gain action
+Failure number 199: Great hall: did not gain action
+Failure number 200: Great hall: did not gain action
+Failure number 201: Great hall: did not gain action
+Failure number 202: Treasure map: did not gain right amount of coins
+Failure number 203: Treasure map: did not gain right amount of coins
+Failure number 204: Smithy: did not gain 3 cards
+Failure number 205: Smithy: did not gain 3 cards
+Failure number 206: Cutpurse: did not remove copper from other players
+Failure number 207: Treasure map: did not gain right amount of coins
+Failure number 208: Embargo: did not recieve coins
+Failure number 209: Salvager: did not increase number of buys
+Failure number 210: Treasure map: did not gain right amount of coins
+Failure number 211: Salvager: did not increase number of buys
+Failure number 212: Embargo: did not recieve coins
+Failure number 213: Steward: Error within the choice
+Failure number 214: Steward: Error within the choice
+Failure number 215: Steward: Error within the choice
+Failure number 216: Cutpurse: did not remove copper from other players
+Failure number 217: Gardens: magic... random card appears
+Failure number 218: Baron: did not increase number of buys
+Failure number 219: Steward: Error within the choice
+Failure number 220: Embargo: did not recieve coins
+Failure number 221: Great hall: did not gain action
+Failure number 222: Smithy: did not gain 3 cards
+Failure number 223: Salvager: did not increase number of buys
+Failure number 224: Steward: Error within the choice
+Failure number 225: Cutpurse: did not remove copper from other players
+Failure number 226: Embargo: did not recieve coins
+Failure number 227: Salvager: did not increase number of buys
+Failure number 228: Baron: did not increase number of buys
+Failure number 229: Baron: did not increase number of buys
+Failure number 230: Cutpurse: did not remove copper from other players
+Failure number 231: Baron: did not increase number of buys
+Failure number 232: Treasure map: did not gain right amount of coins
+Failure number 233: Baron: did not increase number of buys
+Failure number 234: Salvager: did not increase number of buys
+Failure number 235: Great hall: did not gain action
+Failure number 236: Treasure map: did not gain right amount of coins
+Failure number 237: Treasure map: did not gain right amount of coins
+Failure number 238: Great hall: did not gain action
+Failure number 239: Treasure map: did not gain right amount of coins
+Failure number 240: Embargo: did not recieve coins
+Failure number 241: Embargo: did not recieve coins
+Failure number 242: Treasure map: did not gain right amount of coins
+Failure number 243: Great hall: did not gain action
+Failure number 244: Embargo: did not recieve coins
+Failure number 245: Cutpurse: did not remove copper from other players
+Failure number 246: Embargo: did not recieve coins
+Failure number 247: Great hall: did not gain action
+Failure number 248: Salvager: did not increase number of buys
+Failure number 249: Treasure map: did not gain right amount of coins
+Failure number 250: Gardens: magic... random card appears
+Failure number 251: Great hall: did not gain action
+Failure number 252: Gardens: magic... random card appears
+Failure number 253: Embargo: did not recieve coins
+Failure number 254: Embargo: did not recieve coins
+Failure number 255: Gardens: magic... random card appears
+Failure number 256: Baron: did not increase number of buys
+Failure number 257: Smithy: did not gain 3 cards
+Failure number 258: Great hall: did not gain action
+Failure number 259: Cutpurse: did not remove copper from other players
+Failure number 260: Baron: did not increase number of buys
+Failure number 261: Baron: did not increase number of buys
+Failure number 262: Great hall: did not gain action
+Failure number 263: Cutpurse: did not remove copper from other players
+Failure number 264: Steward: Error within the choice
+Failure number 265: Gardens: magic... random card appears
+Failure number 266: Salvager: did not increase number of buys
+Failure number 267: Treasure map: did not gain right amount of coins
+Failure number 268: Treasure map: did not gain right amount of coins
+Failure number 269: Embargo: did not recieve coins
+Failure number 270: Great hall: did not gain action
+Failure number 271: Cutpurse: did not remove copper from other players
+Failure number 272: Steward: Error within the choice
+Failure number 273: Embargo: did not recieve coins
+Failure number 274: Great hall: did not gain action
+Failure number 275: Embargo: did not recieve coins
+Failure number 276: Gardens: magic... random card appears
+Failure number 277: Smithy: did not gain 3 cards
+Failure number 278: Steward: Error within the choice
+Failure number 279: Treasure map: did not gain right amount of coins
+Failure number 280: Treasure map: did not gain right amount of coins
+Failure number 281: Treasure map: did not gain right amount of coins
+Failure number 282: Baron: did not increase number of buys
+Failure number 283: Salvager: did not increase number of buys
+Failure number 284: Cutpurse: did not remove copper from other players
+Failure number 285: Embargo: did not recieve coins
+Failure number 286: Great hall: did not gain action
+Failure number 287: Baron: did not increase number of buys
+Failure number 288: Baron: did not increase number of buys
+Failure number 289: Gardens: magic... random card appears
+Failure number 290: Salvager: did not increase number of buys
+Failure number 291: Salvager: did not increase number of buys
+Failure number 292: Great hall: did not gain action
+Failure number 293: Great hall: did not gain action
+Failure number 294: Great hall: did not gain action
+Failure number 295: Embargo: did not recieve coins
+Failure number 296: Treasure map: did not gain right amount of coins
+Failure number 297: Steward: Error within the choice
+Failure number 298: Steward: Error within the choice
+Failure number 299: Great hall: did not gain action
+Failure number 300: Great hall: did not gain action
+Failure number 301: Treasure map: did not gain right amount of coins
+Failure number 302: Treasure map: did not gain right amount of coins
+Failure number 303: Steward: Error within the choice
+Failure number 304: Smithy: did not gain 3 cards
+Failure number 305: Smithy: did not gain 3 cards
+Failure number 306: Steward: Error within the choice
+Failure number 307: Treasure map: did not gain right amount of coins
+Failure number 308: Smithy: did not gain 3 cards
+Failure number 309: Great hall: did not gain action
+Failure number 310: Baron: did not increase number of buys
+Failure number 311: Baron: did not increase number of buys
+Failure number 312: Gardens: magic... random card appears
+Failure number 313: Great hall: did not gain action
+Failure number 314: Treasure map: did not gain right amount of coins
+Failure number 315: Steward: Error within the choice
+Failure number 316: Gardens: magic... random card appears
+Failure number 317: Great hall: did not gain action
+Failure number 318: Gardens: magic... random card appears
+Failure number 319: Cutpurse: did not remove copper from other players
+Failure number 320: Steward: Error within the choice
+Failure number 321: Gardens: magic... random card appears
+Failure number 322: Baron: did not increase number of buys
+Failure number 323: Baron: did not increase number of buys
+Failure number 324: Treasure map: did not gain right amount of coins
+Failure number 325: Steward: Error within the choice
+Failure number 326: Embargo: did not recieve coins
+Failure number 327: Smithy: did not gain 3 cards
+Failure number 328: Treasure map: did not gain right amount of coins
+Failure number 329: Cutpurse: did not remove copper from other players
+Failure number 330: Great hall: did not gain action
+Failure number 331: Smithy: did not gain 3 cards
+Failure number 332: Cutpurse: did not remove copper from other players
+Failure number 333: Steward: Error within the choice
+Failure number 334: Great hall: did not gain action
+Failure number 335: Embargo: did not recieve coins
+Failure number 336: Salvager: did not increase number of buys
+Failure number 337: Great hall: did not gain action
+Failure number 338: Gardens: magic... random card appears
+Failure number 339: Treasure map: did not gain right amount of coins
+Failure number 340: Steward: Error within the choice
+Failure number 341: Embargo: did not recieve coins
+Failure number 342: Treasure map: did not gain right amount of coins
+Failure number 343: Cutpurse: did not remove copper from other players
+Failure number 344: Cutpurse: did not remove copper from other players
+Failure number 345: Cutpurse: did not remove copper from other players
+Failure number 346: Cutpurse: did not remove copper from other players
+Failure number 347: Gardens: magic... random card appears
+Failure number 348: Great hall: did not gain action
+Failure number 349: Great hall: did not gain action
+Failure number 350: Great hall: did not gain action
+Failure number 351: Embargo: did not recieve coins
+Failure number 352: Gardens: magic... random card appears
+Failure number 353: Salvager: did not increase number of buys
+Failure number 354: Gardens: magic... random card appears
+Failure number 355: Treasure map: did not gain right amount of coins
+Failure number 356: Gardens: magic... random card appears
+Failure number 357: Embargo: did not recieve coins
+Failure number 358: Baron: did not increase number of buys
+Failure number 359: Great hall: did not gain action
+Failure number 360: Great hall: did not gain action
+Failure number 361: Great hall: did not gain action
+Failure number 362: Smithy: did not gain 3 cards
+Failure number 363: Treasure map: did not gain right amount of coins
+Failure number 364: Great hall: did not gain action
+Failure number 365: Gardens: magic... random card appears
+Failure number 366: Steward: Error within the choice
+Failure number 367: Great hall: did not gain action
+Failure number 368: Smithy: did not gain 3 cards
+Failure number 369: Gardens: magic... random card appears
+Failure number 370: Cutpurse: did not remove copper from other players
+Failure number 371: Baron: did not increase number of buys
+Failure number 372: Great hall: did not gain action
+Failure number 373: Treasure map: did not gain right amount of coins
+Failure number 374: Great hall: did not gain action
+Failure number 375: Salvager: did not increase number of buys
+Failure number 376: Smithy: did not gain 3 cards
+Failure number 377: Baron: did not increase number of buys
+Failure number 378: Salvager: did not increase number of buys
+Failure number 379: Great hall: did not gain action
+Failure number 380: Smithy: did not gain 3 cards
+Failure number 381: Steward: Error within the choice
+Failure number 382: Great hall: did not gain action
+Failure number 383: Smithy: did not gain 3 cards
+Failure number 384: Embargo: did not recieve coins
+Failure number 385: Salvager: did not increase number of buys
+Failure number 386: Cutpurse: did not remove copper from other players
+Failure number 387: Smithy: did not gain 3 cards
+Failure number 388: Great hall: did not gain action
+Failure number 389: Gardens: magic... random card appears
+Failure number 390: Great hall: did not gain action
+Failure number 391: Steward: Error within the choice
+Failure number 392: Great hall: did not gain action
+Failure number 393: Baron: did not increase number of buys
+Failure number 394: Steward: Error within the choice
+Failure number 395: Embargo: did not recieve coins
+Failure number 396: Cutpurse: did not remove copper from other players
+Failure number 397: Treasure map: did not gain right amount of coins
+Failure number 398: Treasure map: did not gain right amount of coins
+Failure number 399: Salvager: did not increase number of buys
+Failure number 400: Great hall: did not gain action
+Failure number 401: Steward: Error within the choice
+Failure number 402: Cutpurse: did not remove copper from other players
+Failure number 403: Cutpurse: did not remove copper from other players
+Failure number 404: Baron: did not increase number of buys
+Failure number 405: Baron: did not increase number of buys
+Failure number 406: Smithy: did not gain 3 cards
+Failure number 407: Steward: Error within the choice
+Failure number 408: Great hall: did not gain action
+Failure number 409: Gardens: magic... random card appears
+Failure number 410: Gardens: magic... random card appears
+Failure number 411: Treasure map: did not gain right amount of coins
+Failure number 412: Steward: Error within the choice
+Failure number 413: Gardens: magic... random card appears
+Failure number 414: Gardens: magic... random card appears
+Failure number 415: Steward: Error within the choice
+Failure number 416: Baron: did not increase number of buys
+Failure number 417: Great hall: did not gain action
+Failure number 418: Salvager: did not increase number of buys
+Failure number 419: Great hall: did not gain action
+Failure number 420: Great hall: did not gain action
+Failure number 421: Steward: Error within the choice
+Failure number 422: Embargo: did not recieve coins
+Failure number 423: Cutpurse: did not remove copper from other players
+Failure number 424: Salvager: did not increase number of buys
+Failure number 425: Gardens: magic... random card appears
+Failure number 426: Steward: Error within the choice
+Failure number 427: Treasure map: did not gain right amount of coins
+Failure number 428: Smithy: did not gain 3 cards
+Failure number 429: Great hall: did not gain action
+Failure number 430: Great hall: did not gain action
+Failure number 431: Great hall: did not gain action
+Failure number 432: Cutpurse: did not remove copper from other players
+Failure number 433: Gardens: magic... random card appears
+Failure number 434: Salvager: did not increase number of buys
+Failure number 435: Embargo: did not recieve coins
+Failure number 436: Steward: Error within the choice
+Failure number 437: Smithy: did not gain 3 cards
+Failure number 438: Great hall: did not gain action
+Failure number 439: Salvager: did not increase number of buys
+Failure number 440: Gardens: magic... random card appears
+Failure number 441: Great hall: did not gain action
+Failure number 442: Treasure map: did not gain right amount of coins
+Failure number 443: Steward: Error within the choice
+Failure number 444: Great hall: did not gain action
+Failure number 445: Salvager: did not increase number of buys
+Failure number 446: Gardens: magic... random card appears
+Failure number 447: Salvager: did not increase number of buys
+Failure number 448: Great hall: did not gain action
+Failure number 449: Baron: did not increase number of buys
+Failure number 450: Great hall: did not gain action
+Failure number 451: Embargo: did not recieve coins
+Failure number 452: Cutpurse: did not remove copper from other players
+Failure number 453: Great hall: did not gain action
+Failure number 454: Gardens: magic... random card appears
+Failure number 455: Great hall: did not gain action
+Failure number 456: Salvager: did not increase number of buys
+Failure number 457: Embargo: did not recieve coins
+Failure number 458: Steward: Error within the choice
+Failure number 459: Baron: did not increase number of buys
+Failure number 460: Treasure map: did not gain right amount of coins
+Failure number 461: Salvager: did not increase number of buys
+Failure number 462: Great hall: did not gain action
+Failure number 463: Baron: did not increase number of buys
+Failure number 464: Cutpurse: did not remove copper from other players
+Failure number 465: Salvager: did not increase number of buys
+Failure number 466: Great hall: did not gain action
+Failure number 467: Cutpurse: did not remove copper from other players
+Failure number 468: Baron: did not increase number of buys
+Failure number 469: Smithy: did not gain 3 cards
+Failure number 470: Steward: Error within the choice
+Failure number 471: Great hall: did not gain action
+Failure number 472: Gardens: magic... random card appears
+Failure number 473: Treasure map: did not gain right amount of coins
+Failure number 474: Cutpurse: did not remove copper from other players
+Failure number 475: Baron: did not increase number of buys
+Failure number 476: Steward: Error within the choice
+Failure number 477: Great hall: did not gain action
+Failure number 478: Embargo: did not recieve coins
+Failure number 479: Salvager: did not increase number of buys
+Failure number 480: Great hall: did not gain action
+Failure number 481: Cutpurse: did not remove copper from other players
+Failure number 482: Cutpurse: did not remove copper from other players
+Failure number 483: Treasure map: did not gain right amount of coins
+Failure number 484: Cutpurse: did not remove copper from other players
+Failure number 485: Salvager: did not increase number of buys
+Failure number 486: Great hall: did not gain action
+Failure number 487: Treasure map: did not gain right amount of coins
+Failure number 488: Cutpurse: did not remove copper from other players
+Failure number 489: Salvager: did not increase number of buys
+Failure number 490: Great hall: did not gain action
+Failure number 491: Great hall: did not gain action
+Failure number 492: Steward: Error within the choice
+Failure number 493: Salvager: did not increase number of buys
+Failure number 494: Embargo: did not recieve coins
+Failure number 495: Gardens: magic... random card appears
+Failure number 496: Great hall: did not gain action
+Failure number 497: Cutpurse: did not remove copper from other players
+Failure number 498: Great hall: did not gain action
+Failure number 499: Baron: did not increase number of buys
+Test failed 499 times
+
+unitTestDominion
+Starting test...
+Test successful
+
+unitTestCard
+Starting test..
+Failure number 1: Wrong number of cards in deck
+Test failed

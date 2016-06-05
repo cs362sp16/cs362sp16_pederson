@@ -1,0 +1,4 @@
+Priority = 4/5
+Severity = 2/5
+
+Player does not recieve the right amount of coins when embargo is called within cardEffect()

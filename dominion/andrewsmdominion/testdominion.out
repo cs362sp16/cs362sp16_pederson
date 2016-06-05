@@ -1,0 +1,627 @@
+
+Supply count: 20 12 12 12 39 40 30 10 -1 10
+Starting tests...
+Failure number 1: Failure in buy phase with player 0
+Failure number 2: Failure in buy phase with player 0
+Failure number 3: Failure in buy phase with player 1
+Failure number 4: Failure in buy phase with player 1
+Failure number 5: Failure in buy phase with player 2
+Failure number 6: Failure in buy phase with player 2
+Failure number 7: Failure in buy phase with player 0
+Failure number 8: Failure in buy phase with player 1
+Failure number 9: Failure in buy phase with player 1
+Failure number 10: Failure in buy phase with player 1
+Failure number 11: Failure in action phase with player 2
+Failure number 12: Failure in buy phase with player 0
+Failure number 13: Failure in buy phase with player 2
+Failure number 14: Failure in buy phase with player 1
+Failure number 15: Failure in buy phase with player 1
+Failure number 16: Failure in buy phase with player 1
+Failure number 17: Failure in buy phase with player 1
+Failure number 18: Failure in buy phase with player 2
+Failure number 19: Failure in buy phase with player 0
+Failure number 20: Failure in buy phase with player 0
+Failure number 21: Failure in action phase with player 2
+Failure number 22: Failure in buy phase with player 1
+Failure number 23: Failure in buy phase with player 1
+Failure number 24: Failure in buy phase with player 1
+Failure number 25: Failure in buy phase with player 0
+Failure number 26: Failure in buy phase with player 2
+Failure number 27: Failure in buy phase with player 2
+Failure number 28: Failure in action phase with player 0
+Failure number 29: Failure in buy phase with player 2
+Failure number 30: Failure in buy phase with player 1
+Failure number 31: Failure in buy phase with player 2
+Failure number 32: Failure in buy phase with player 0
+Failure number 33: Failure in buy phase with player 0
+Failure number 34: Failure in buy phase with player 0
+Failure number 35: Failure in buy phase with player 0
+Failure number 36: Failure in buy phase with player 1
+Failure number 37: Failure in buy phase with player 2
+Failure number 38: Failure in action phase with player 0
+Failure number 39: Failure in buy phase with player 0
+Failure number 40: Failure in buy phase with player 1
+Failure number 41: Failure in buy phase with player 2
+Failure number 42: Failure in buy phase with player 0
+Failure number 43: Failure in action phase with player 2
+Failure number 44: Failure in action phase with player 1
+Failure number 45: Failure in buy phase with player 1
+Failure number 46: Failure in action phase with player 2
+Failure number 47: Failure in buy phase with player 0
+Failure number 48: Failure in buy phase with player 2
+Failure number 49: Failure in buy phase with player 2
+Failure number 50: Failure in buy phase with player 0
+Failure number 51: Failure in buy phase with player 0
+Supply count: 0 0 10 12 9 22 30 9 -1 1
+
+Tests attempted:
+	250	played cards
+	298	buys
+	265	players turns
+Test FAILED 51 times
+Supply count: 20 12 12 12 39 40 30 -1 10 10
+Starting tests...
+Failure number 1: Failure in buy phase with player 2
+Failure number 2: Failure in buy phase with player 2
+Failure number 3: Failure in buy phase with player 0
+Failure number 4: Failure in buy phase with player 2
+Failure number 5: Failure in buy phase with player 2
+Failure number 6: Failure in buy phase with player 1
+Failure number 7: Failure in buy phase with player 1
+Failure number 8: Failure in buy phase with player 1
+Failure number 9: Failure in buy phase with player 1
+Failure number 10: Failure in action phase with player 1
+Failure number 11: Failure in buy phase with player 1
+Failure number 12: Failure in buy phase with player 2
+Failure number 13: Failure in buy phase with player 0
+Failure number 14: Failure in buy phase with player 0
+Failure number 15: Failure in buy phase with player 0
+Failure number 16: Failure in action phase with player 1
+Failure number 17: Failure in buy phase with player 0
+Failure number 18: Failure in buy phase with player 0
+Failure number 19: Failure in buy phase with player 1
+Failure number 20: Failure in buy phase with player 1
+Failure number 21: Failure in action phase with player 2
+Failure number 22: Failure in buy phase with player 0
+Failure number 23: Failure in buy phase with player 2
+Failure number 24: Failure in buy phase with player 0
+Failure number 25: Failure in buy phase with player 1
+Failure number 26: Failure in buy phase with player 2
+Failure number 27: Failure in buy phase with player 2
+Failure number 28: Failure in buy phase with player 2
+Failure number 29: Failure in buy phase with player 2
+Failure number 30: Failure in action phase with player 1
+Failure number 31: Failure in buy phase with player 1
+Failure number 32: Failure in buy phase with player 0
+Failure number 33: Failure in buy phase with player 0
+Failure number 34: Failure in action phase with player 1
+Failure number 35: Failure in buy phase with player 1
+Failure number 36: Failure in buy phase with player 2
+Failure number 37: Failure in buy phase with player 2
+Failure number 38: Failure in buy phase with player 2
+Failure number 39: Failure in buy phase with player 2
+Failure number 40: Failure in buy phase with player 2
+Failure number 41: Failure in buy phase with player 2
+Failure number 42: Failure in buy phase with player 2
+Failure number 43: Failure in buy phase with player 2
+Failure number 44: Failure in action phase with player 1
+Failure number 45: Failure in action phase with player 2
+Failure number 46: Failure in buy phase with player 2
+Failure number 47: Failure in buy phase with player 2
+Failure number 48: Failure in buy phase with player 0
+Failure number 49: Failure in buy phase with player 0
+Failure number 50: Failure in action phase with player 1
+Supply count: 0 0 10 12 19 28 29 -1 8 3
+
+Tests attempted:
+	244	played cards
+	216	buys
+	232	players turns
+Test FAILED 50 times
+Supply count: 20 12 12 12 39 40 30 -1 10 10
+Starting tests...
+Failure number 1: Failure in buy phase with player 2
+Failure number 2: Failure in buy phase with player 1
+Failure number 3: Failure in buy phase with player 1
+Failure number 4: Failure in buy phase with player 1
+Failure number 5: Failure in buy phase with player 1
+Failure number 6: Failure in buy phase with player 1
+Failure number 7: Failure in buy phase with player 1
+Failure number 8: Failure in buy phase with player 2
+Failure number 9: Failure in buy phase with player 1
+Failure number 10: Failure in buy phase with player 1
+Failure number 11: Failure in buy phase with player 2
+Failure number 12: Failure in buy phase with player 2
+Failure number 13: Failure in buy phase with player 2
+Failure number 14: Failure in buy phase with player 2
+Failure number 15: Failure in action phase with player 0
+Failure number 16: Failure in action phase with player 2
+Failure number 17: Failure in buy phase with player 1
+Failure number 18: Failure in buy phase with player 1
+Failure number 19: Failure in action phase with player 1
+Failure number 20: Failure in buy phase with player 2
+Failure number 21: Failure in buy phase with player 1
+Failure number 22: Failure in buy phase with player 1
+Failure number 23: Failure in buy phase with player 1
+Failure number 24: Failure in buy phase with player 1
+Failure number 25: Failure in buy phase with player 1
+Failure number 26: Failure in buy phase with player 1
+Failure number 27: Failure in buy phase with player 1
+Failure number 28: Failure in buy phase with player 2
+Failure number 29: Failure in buy phase with player 2
+Failure number 30: Failure in buy phase with player 2
+Failure number 31: Failure in buy phase with player 0
+Failure number 32: Failure in buy phase with player 0
+Failure number 33: Failure in action phase with player 1
+Failure number 34: Failure in buy phase with player 2
+Failure number 35: Failure in buy phase with player 0
+Failure number 36: Failure in buy phase with player 1
+Failure number 37: Failure in buy phase with player 1
+Failure number 38: Failure in action phase with player 0
+Failure number 39: Failure in buy phase with player 1
+Failure number 40: Failure in buy phase with player 0
+Failure number 41: Failure in buy phase with player 0
+Supply count: 0 0 9 12 27 23 30 -1 8 6
+
+Tests attempted:
+	198	played cards
+	190	buys
+	218	players turns
+Test FAILED 41 times
+Supply count: 30 12 12 12 32 40 30 10 -1 10
+Starting tests...
+Failure number 1: Failure in buy phase with player 2
+Failure number 2: Failure in buy phase with player 0
+Failure number 3: Failure in buy phase with player 0
+Failure number 4: Failure in buy phase with player 1
+Failure number 5: Failure in buy phase with player 1
+Failure number 6: Failure in buy phase with player 2
+Failure number 7: Failure in buy phase with player 0
+Failure number 8: Failure in buy phase with player 0
+Failure number 9: Failure in buy phase with player 0
+Failure number 10: Failure in buy phase with player 2
+Failure number 11: Failure in buy phase with player 0
+Failure number 12: Failure in buy phase with player 0
+Failure number 13: Failure in buy phase with player 0
+Failure number 14: Failure in buy phase with player 2
+Failure number 15: Failure in buy phase with player 0
+Failure number 16: Failure in buy phase with player 0
+Failure number 17: Failure in buy phase with player 2
+Failure number 18: Failure in buy phase with player 2
+Failure number 19: Failure in buy phase with player 1
+Failure number 20: Failure in buy phase with player 1
+Failure number 21: Failure in buy phase with player 2
+Failure number 22: Failure in buy phase with player 2
+Failure number 23: Failure in buy phase with player 1
+Failure number 24: Failure in buy phase with player 1
+Failure number 25: Failure in buy phase with player 1
+Failure number 26: Failure in buy phase with player 2
+Failure number 27: Failure in buy phase with player 3
+Failure number 28: Failure in buy phase with player 3
+Failure number 29: Failure in buy phase with player 0
+Failure number 30: Failure in buy phase with player 1
+Failure number 31: Failure in action phase with player 0
+Failure number 32: Failure in action phase with player 1
+Failure number 33: Failure in action phase with player 0
+Failure number 34: Failure in buy phase with player 1
+Failure number 35: Failure in buy phase with player 2
+Failure number 36: Failure in buy phase with player 2
+Failure number 37: Failure in action phase with player 2
+Failure number 38: Failure in buy phase with player 1
+Failure number 39: Failure in action phase with player 1
+Supply count: 13 0 12 12 17 29 28 9 -1 0
+
+Tests attempted:
+	190	played cards
+	205	buys
+	178	players turns
+Test FAILED 39 times
+Supply count: 30 12 12 12 32 40 30 -1 10 10
+Starting tests...
+Failure number 1: Failure in buy phase with player 1
+Failure number 2: Failure in buy phase with player 1
+Failure number 3: Failure in buy phase with player 0
+Failure number 4: Failure in buy phase with player 0
+Failure number 5: Failure in buy phase with player 0
+Failure number 6: Failure in buy phase with player 2
+Failure number 7: Failure in buy phase with player 3
+Failure number 8: Failure in buy phase with player 0
+Failure number 9: Failure in buy phase with player 1
+Failure number 10: Failure in buy phase with player 1
+Failure number 11: Failure in buy phase with player 1
+Failure number 12: Failure in action phase with player 3
+Failure number 13: Failure in buy phase with player 3
+Failure number 14: Failure in buy phase with player 1
+Failure number 15: Failure in buy phase with player 1
+Failure number 16: Failure in action phase with player 0
+Failure number 17: Failure in action phase with player 3
+Failure number 18: Failure in buy phase with player 3
+Failure number 19: Failure in buy phase with player 1
+Failure number 20: Failure in buy phase with player 3
+Failure number 21: Failure in buy phase with player 3
+Failure number 22: Failure in buy phase with player 3
+Failure number 23: Failure in buy phase with player 0
+Failure number 24: Failure in buy phase with player 0
+Failure number 25: Failure in buy phase with player 2
+Failure number 26: Failure in buy phase with player 2
+Failure number 27: Failure in buy phase with player 2
+Failure number 28: Failure in action phase with player 1
+Failure number 29: Failure in action phase with player 1
+Failure number 30: Failure in action phase with player 3
+Failure number 31: Failure in buy phase with player 1
+Failure number 32: Failure in buy phase with player 2
+Failure number 33: Failure in buy phase with player 1
+Failure number 34: Failure in buy phase with player 1
+Failure number 35: Failure in buy phase with player 2
+Failure number 36: Failure in action phase with player 1
+Failure number 37: Failure in action phase with player 3
+Failure number 38: Failure in buy phase with player 3
+Failure number 39: Failure in buy phase with player 1
+Failure number 40: Failure in action phase with player 1
+Failure number 41: Failure in action phase with player 3
+Failure number 42: Failure in buy phase with player 1
+Failure number 43: Failure in buy phase with player 2
+Failure number 44: Failure in buy phase with player 0
+Failure number 45: Failure in buy phase with player 0
+Failure number 46: Failure in action phase with player 1
+Failure number 47: Failure in buy phase with player 2
+Failure number 48: Failure in buy phase with player 2
+Failure number 49: Failure in buy phase with player 1
+Supply count: 0 0 9 12 18 24 27 -1 8 4
+
+Tests attempted:
+	233	played cards
+	213	buys
+	226	players turns
+Test FAILED 49 times
+Supply count: 10 8 8 8 46 40 30 10 -1 10
+Starting tests...
+Failure number 1: Failure in buy phase with player 0
+Failure number 2: Failure in buy phase with player 1
+Failure number 3: Failure in buy phase with player 1
+Failure number 4: Failure in buy phase with player 1
+Failure number 5: Failure in buy phase with player 1
+Failure number 6: Failure in buy phase with player 1
+Failure number 7: Failure in buy phase with player 0
+Failure number 8: Failure in buy phase with player 0
+Failure number 9: Failure in action phase with player 0
+Failure number 10: Failure in action phase with player 0
+Failure number 11: Failure in action phase with player 1
+Failure number 12: Failure in buy phase with player 1
+Supply count: 0 0 6 8 42 39 30 10 -1 6
+
+Tests attempted:
+	71	played cards
+	81	buys
+	83	players turns
+Test FAILED 12 times
+Supply count: 10 8 8 8 46 40 30 -1 10 -1
+Starting tests...
+Failure number 1: Failure in buy phase with player 1
+Failure number 2: Failure in buy phase with player 1
+Failure number 3: Failure in buy phase with player 1
+Failure number 4: Failure in buy phase with player 1
+Failure number 5: Failure in buy phase with player 1
+Failure number 6: Failure in buy phase with player 1
+Failure number 7: Failure in buy phase with player 1
+Failure number 8: Failure in buy phase with player 1
+Failure number 9: Failure in buy phase with player 0
+Failure number 10: Failure in buy phase with player 0
+Failure number 11: Failure in buy phase with player 0
+Failure number 12: Failure in buy phase with player 0
+Failure number 13: Failure in buy phase with player 0
+Supply count: 1 0 8 8 36 35 30 -1 8 -1
+
+Tests attempted:
+	94	played cards
+	87	buys
+	95	players turns
+Test FAILED 13 times
+Supply count: 30 12 12 12 32 40 30 -1 10 10
+Starting tests...
+Failure number 1: Failure in buy phase with player 1
+Failure number 2: Failure in buy phase with player 1
+Failure number 3: Failure in action phase with player 1
+Failure number 4: Failure in buy phase with player 0
+Failure number 5: Failure in buy phase with player 3
+Failure number 6: Failure in buy phase with player 2
+Failure number 7: Failure in buy phase with player 0
+Failure number 8: Failure in buy phase with player 1
+Failure number 9: Failure in buy phase with player 0
+Failure number 10: Failure in buy phase with player 1
+Failure number 11: Failure in action phase with player 1
+Failure number 12: Failure in buy phase with player 1
+Failure number 13: Failure in buy phase with player 3
+Failure number 14: Failure in buy phase with player 3
+Failure number 15: Failure in buy phase with player 3
+Failure number 16: Failure in buy phase with player 3
+Failure number 17: Failure in buy phase with player 0
+Failure number 18: Failure in buy phase with player 0
+Failure number 19: Failure in action phase with player 1
+Failure number 20: Failure in buy phase with player 2
+Failure number 21: Failure in buy phase with player 2
+Failure number 22: Failure in buy phase with player 2
+Failure number 23: Failure in buy phase with player 2
+Failure number 24: Failure in buy phase with player 2
+Failure number 25: Failure in action phase with player 1
+Failure number 26: Failure in buy phase with player 3
+Failure number 27: Failure in buy phase with player 3
+Failure number 28: Failure in buy phase with player 3
+Failure number 29: Failure in buy phase with player 0
+Failure number 30: Failure in buy phase with player 2
+Failure number 31: Failure in action phase with player 1
+Failure number 32: Failure in buy phase with player 3
+Failure number 33: Failure in action phase with player 1
+Failure number 34: Failure in buy phase with player 2
+Failure number 35: Failure in buy phase with player 2
+Failure number 36: Failure in buy phase with player 2
+Failure number 37: Failure in buy phase with player 2
+Failure number 38: Failure in buy phase with player 2
+Failure number 39: Failure in buy phase with player 2
+Failure number 40: Failure in buy phase with player 2
+Failure number 41: Failure in buy phase with player 0
+Failure number 42: Failure in action phase with player 2
+Failure number 43: Failure in action phase with player 2
+Failure number 44: Failure in action phase with player 1
+Failure number 45: Failure in action phase with player 2
+Failure number 46: Failure in buy phase with player 3
+Failure number 47: Failure in action phase with player 3
+Failure number 48: Failure in buy phase with player 1
+Failure number 49: Failure in buy phase with player 2
+Failure number 50: Failure in buy phase with player 2
+Failure number 51: Failure in buy phase with player 1
+Failure number 52: Failure in buy phase with player 1
+Failure number 53: Failure in action phase with player 2
+Failure number 54: Failure in action phase with player 1
+Failure number 55: Failure in buy phase with player 2
+Failure number 56: Failure in buy phase with player 3
+Supply count: 3 0 11 12 13 21 29 -1 5 0
+
+Tests attempted:
+	271	played cards
+	279	buys
+	267	players turns
+Test FAILED 56 times
+Supply count: 20 12 12 12 39 40 30 -1 10 10
+Starting tests...
+Failure number 1: Failure in buy phase with player 1
+Failure number 2: Failure in buy phase with player 1
+Failure number 3: Failure in buy phase with player 1
+Failure number 4: Failure in buy phase with player 2
+Failure number 5: Failure in buy phase with player 0
+Failure number 6: Failure in buy phase with player 2
+Failure number 7: Failure in buy phase with player 2
+Failure number 8: Failure in buy phase with player 2
+Failure number 9: Failure in buy phase with player 2
+Failure number 10: Failure in action phase with player 2
+Failure number 11: Failure in buy phase with player 1
+Failure number 12: Failure in buy phase with player 1
+Failure number 13: Failure in buy phase with player 1
+Failure number 14: Failure in action phase with player 2
+Failure number 15: Failure in buy phase with player 1
+Failure number 16: Failure in buy phase with player 1
+Failure number 17: Failure in buy phase with player 1
+Failure number 18: Failure in buy phase with player 1
+Failure number 19: Failure in buy phase with player 0
+Failure number 20: Failure in buy phase with player 0
+Failure number 21: Failure in buy phase with player 0
+Failure number 22: Failure in action phase with player 2
+Failure number 23: Failure in buy phase with player 1
+Failure number 24: Failure in buy phase with player 1
+Failure number 25: Failure in buy phase with player 1
+Failure number 26: Failure in buy phase with player 1
+Failure number 27: Failure in buy phase with player 1
+Failure number 28: Failure in buy phase with player 1
+Failure number 29: Failure in buy phase with player 2
+Failure number 30: Failure in buy phase with player 2
+Failure number 31: Failure in buy phase with player 0
+Failure number 32: Failure in action phase with player 1
+Failure number 33: Failure in action phase with player 1
+Failure number 34: Failure in action phase with player 2
+Failure number 35: Failure in buy phase with player 0
+Failure number 36: Failure in buy phase with player 0
+Failure number 37: Failure in buy phase with player 0
+Failure number 38: Failure in buy phase with player 0
+Failure number 39: Failure in buy phase with player 0
+Failure number 40: Failure in action phase with player 2
+Supply count: 2 0 12 12 24 32 30 -1 9 0
+
+Tests attempted:
+	202	played cards
+	203	buys
+	187	players turns
+Test FAILED 40 times
+Supply count: 30 12 12 12 32 40 30 -1 -1 10
+Starting tests...
+Failure number 1: Failure in buy phase with player 0
+Failure number 2: Failure in buy phase with player 0
+Failure number 3: Failure in buy phase with player 0
+Failure number 4: Failure in buy phase with player 0
+Failure number 5: Failure in buy phase with player 2
+Failure number 6: Failure in buy phase with player 2
+Failure number 7: Failure in buy phase with player 2
+Failure number 8: Failure in buy phase with player 2
+Failure number 9: Failure in buy phase with player 1
+Failure number 10: Failure in buy phase with player 3
+Failure number 11: Failure in buy phase with player 0
+Failure number 12: Failure in buy phase with player 3
+Failure number 13: Failure in buy phase with player 3
+Failure number 14: Failure in buy phase with player 3
+Failure number 15: Failure in buy phase with player 0
+Failure number 16: Failure in buy phase with player 0
+Failure number 17: Failure in buy phase with player 0
+Failure number 18: Failure in buy phase with player 1
+Failure number 19: Failure in buy phase with player 1
+Supply count: 26 0 12 12 23 37 30 -1 -1 8
+
+Tests attempted:
+	69	played cards
+	78	buys
+	83	players turns
+Test FAILED 19 times
+Supply count: 30 12 12 12 32 40 30 10 -1 -1
+Starting tests...
+Failure number 1: Failure in buy phase with player 3
+Failure number 2: Failure in buy phase with player 2
+Failure number 3: Failure in buy phase with player 0
+Failure number 4: Failure in buy phase with player 0
+Failure number 5: Failure in buy phase with player 2
+Failure number 6: Failure in buy phase with player 2
+Failure number 7: Failure in buy phase with player 0
+Failure number 8: Failure in buy phase with player 0
+Failure number 9: Failure in buy phase with player 2
+Failure number 10: Failure in buy phase with player 0
+Failure number 11: Failure in buy phase with player 0
+Failure number 12: Failure in buy phase with player 2
+Failure number 13: Failure in buy phase with player 2
+Supply count: 24 0 12 12 22 35 30 9 -1 -1
+
+Tests attempted:
+	105	played cards
+	103	buys
+	108	players turns
+Test FAILED 13 times
+Supply count: 30 12 12 12 32 40 30 10 10 -1
+Starting tests...
+Failure number 1: Failure in buy phase with player 3
+Failure number 2: Failure in buy phase with player 3
+Failure number 3: Failure in buy phase with player 3
+Failure number 4: Failure in buy phase with player 0
+Failure number 5: Failure in buy phase with player 0
+Failure number 6: Failure in buy phase with player 2
+Failure number 7: Failure in buy phase with player 2
+Failure number 8: Failure in buy phase with player 0
+Failure number 9: Failure in buy phase with player 2
+Failure number 10: Failure in buy phase with player 3
+Failure number 11: Failure in buy phase with player 2
+Failure number 12: Failure in buy phase with player 2
+Failure number 13: Failure in buy phase with player 3
+Failure number 14: Failure in buy phase with player 1
+Failure number 15: Failure in buy phase with player 1
+Failure number 16: Failure in buy phase with player 0
+Failure number 17: Failure in buy phase with player 0
+Failure number 18: Failure in buy phase with player 0
+Failure number 19: Failure in buy phase with player 0
+Failure number 20: Failure in buy phase with player 0
+Failure number 21: Failure in buy phase with player 1
+Failure number 22: Failure in buy phase with player 2
+Failure number 23: Failure in buy phase with player 1
+Failure number 24: Failure in buy phase with player 1
+Failure number 25: Failure in buy phase with player 3
+Failure number 26: Failure in action phase with player 2
+Failure number 27: Failure in buy phase with player 1
+Failure number 28: Failure in buy phase with player 0
+Failure number 29: Failure in buy phase with player 0
+Failure number 30: Failure in buy phase with player 1
+Failure number 31: Failure in buy phase with player 1
+Failure number 32: Failure in buy phase with player 3
+Failure number 33: Failure in buy phase with player 3
+Failure number 34: Failure in buy phase with player 3
+Failure number 35: Failure in buy phase with player 1
+Failure number 36: Failure in buy phase with player 0
+Failure number 37: Failure in buy phase with player 1
+Failure number 38: Failure in buy phase with player 0
+Failure number 39: Failure in buy phase with player 1
+Failure number 40: Failure in buy phase with player 3
+Failure number 41: Failure in buy phase with player 2
+Failure number 42: Failure in buy phase with player 2
+Failure number 43: Failure in buy phase with player 3
+Failure number 44: Failure in buy phase with player 0
+Failure number 45: Failure in buy phase with player 1
+Failure number 46: Failure in buy phase with player 2
+Failure number 47: Failure in buy phase with player 2
+Failure number 48: Failure in buy phase with player 2
+Failure number 49: Failure in buy phase with player 2
+Supply count: 0 0 5 12 4 10 30 7 3 -1
+
+Tests attempted:
+	393	played cards
+	430	buys
+	428	players turns
+Test FAILED 49 times
+Supply count: 20 12 12 12 39 40 30 10 -1 -1
+Starting tests...
+Failure number 1: Failure in buy phase with player 0
+Failure number 2: Failure in buy phase with player 2
+Failure number 3: Failure in buy phase with player 2
+Failure number 4: Failure in buy phase with player 1
+Failure number 5: Failure in buy phase with player 2
+Failure number 6: Failure in buy phase with player 0
+Failure number 7: Failure in buy phase with player 1
+Failure number 8: Failure in buy phase with player 2
+Failure number 9: Failure in buy phase with player 2
+Failure number 10: Failure in buy phase with player 2
+Failure number 11: Failure in buy phase with player 0
+Failure number 12: Failure in action phase with player 2
+Failure number 13: Failure in buy phase with player 1
+Failure number 14: Failure in buy phase with player 1
+Failure number 15: Failure in buy phase with player 2
+Failure number 16: Failure in buy phase with player 2
+Supply count: 11 0 11 12 26 36 30 9 -1 -1
+
+Tests attempted:
+	81	played cards
+	108	buys
+	106	players turns
+Test FAILED 16 times
+Supply count: 10 8 8 8 46 40 30 10 -1 10
+Starting tests...
+Failure number 1: Failure in buy phase with player 0
+Failure number 2: Failure in buy phase with player 0
+Failure number 3: Failure in buy phase with player 1
+Failure number 4: Failure in buy phase with player 1
+Failure number 5: Failure in buy phase with player 0
+Failure number 6: Failure in buy phase with player 0
+Failure number 7: Failure in buy phase with player 1
+Failure number 8: Failure in buy phase with player 1
+Failure number 9: Failure in action phase with player 1
+Failure number 10: Failure in buy phase with player 0
+Failure number 11: Failure in buy phase with player 1
+Failure number 12: Failure in action phase with player 1
+Failure number 13: Failure in buy phase with player 0
+Failure number 14: Failure in action phase with player 1
+Failure number 15: Failure in buy phase with player 0
+Failure number 16: Failure in action phase with player 1
+Failure number 17: Failure in buy phase with player 0
+Failure number 18: Failure in buy phase with player 0
+Failure number 19: Failure in buy phase with player 0
+Failure number 20: Failure in buy phase with player 0
+Failure number 21: Failure in action phase with player 1
+Failure number 22: Failure in action phase with player 1
+Supply count: 0 0 7 8 40 32 30 10 -1 6
+
+Tests attempted:
+	94	played cards
+	100	buys
+	87	players turns
+Test FAILED 22 times
+Supply count: 10 8 8 8 46 40 30 -1 -1 10
+Starting tests...
+Failure number 1: Failure in buy phase with player 0
+Failure number 2: Failure in buy phase with player 1
+Failure number 3: Failure in buy phase with player 0
+Failure number 4: Failure in buy phase with player 0
+Failure number 5: Failure in buy phase with player 0
+Failure number 6: Failure in buy phase with player 0
+Failure number 7: Failure in buy phase with player 0
+Failure number 8: Failure in action phase with player 1
+Failure number 9: Failure in buy phase with player 0
+Failure number 10: Failure in buy phase with player 0
+Failure number 11: Failure in buy phase with player 1
+Failure number 12: Failure in buy phase with player 1
+Failure number 13: Failure in buy phase with player 0
+Failure number 14: Failure in buy phase with player 0
+Failure number 15: Failure in buy phase with player 1
+Failure number 16: Failure in buy phase with player 1
+Failure number 17: Failure in buy phase with player 1
+Failure number 18: Failure in buy phase with player 0
+Failure number 19: Failure in buy phase with player 0
+Failure number 20: Failure in buy phase with player 0
+Failure number 21: Failure in buy phase with player 0
+Supply count: 3 0 7 8 40 36 30 -1 -1 7
+
+Tests attempted:
+	94	played cards
+	94	buys
+	68	players turns
+Test FAILED 21 times

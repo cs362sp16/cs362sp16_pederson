@@ -1,0 +1,4 @@
+Priority = 3/5
+Severity = 2/5
+
+Smithy being called within cardEffect() causes player to have the wrong number of cards in there deck

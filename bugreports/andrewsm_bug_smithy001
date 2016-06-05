@@ -1,0 +1,4 @@
+Priority = 4/5
+Severity = 2/5
+
+Player does not recieve 3 cards or player does not discard played card when smithy is called within cardEffect()

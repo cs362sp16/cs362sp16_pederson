@@ -1,0 +1,4 @@
+Priority = 4/5
+Severity = 2/5
+
+The number of actions for the player was not increased when greatHall is played through cardEffect()
